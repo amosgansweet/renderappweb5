@@ -1,0 +1,11 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "appweb5.js",
+  "scripts": {
+    "start": "node appweb5.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
